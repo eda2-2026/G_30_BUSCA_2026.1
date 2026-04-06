@@ -5,7 +5,7 @@
 | Campo | Detalhes |
 |-------|----------|
 | **Disciplina** | Estruturas de Dados 2 — Busca |
-| **Atividade** | Trabalho 1 — Tabela Hash |
+| **Atividade** | Trabalho 1  - Busca |
 | **Linguagem** | C |
 | **Tema** | Cadastro de matrículas usando Tabela Hash com tratamento de colisão por encadeamento |
 
@@ -13,8 +13,8 @@
 
 | Nome | Matrícula | Responsabilidade |
 |------|-----------|------------------|
-| Patrick Anderson Carvalho dos Santos | 211030620 | **Pessoa 1** — Estrutura base (`hash_table.c` / `hash_table.h`) |
-| Vinicius Castelo Ferreira | 200062883 | **Pessoa 2** — Aplicação (`main.c` + `dados.txt`) |
+| Patrick Anderson Carvalho dos Santos | 211030620 |  Estrutura base (`hash_table.c` / `hash_table.h`) |
+| Vinicius Castelo Ferreira | 200062883 | Aplicação (`main.c` + `dados.txt`) |
 
 ---
 

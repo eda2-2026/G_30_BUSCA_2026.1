@@ -1,0 +1,17 @@
+# ============================================================
+# dados.txt — Registros de alunos para inserção em lote
+# Formato: <matricula> <nome completo>
+# Linhas iniciadas com '#' são ignoradas.
+# ============================================================
+
+213642197 Patrick Anderson Carvalho dos Santos
+209784623 Vinicius Castelo Ferreira
+190045321 Ana Beatriz Souza Lima
+180073412 Carlos Eduardo Mendes
+210034567 Fernanda Oliveira Costa
+200089234 Rafael Nascimento Alves
+195023781 Juliana Pereira Martins
+201056432 Bruno Henrique Dias
+208012345 Larissa Gomes Ferreira
+193047891 Diego Augusto Ribeiro
+207065432 Mariana Tavares Cunha
