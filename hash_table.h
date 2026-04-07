@@ -6,7 +6,7 @@
  * tratamento de colisão por encadeamento (chaining). A tabela armazena
  * registros de alunos identificados por matrícula e nome.
  *
- * @author Patrick Anderson Carvalho dos Santos (Pessoa 1)
+ * @author Patrick Anderson Carvalho dos Santos 
  * @date   2026
  */
 

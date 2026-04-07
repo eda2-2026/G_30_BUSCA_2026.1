@@ -33,16 +33,16 @@ A tabela utiliza:
 
 ```
 trabalho1/
-├── hash_table.h    ← Definições de structs, constantes e protótipos (Pessoa 1)
-├── hash_table.c    ← Implementação das funções da tabela hash     (Pessoa 1)
-├── main.c          ← Aplicação: leitura em lote, busca, relatório (Pessoa 2)
-├── dados.txt       ← Arquivo com matrículas para inserção em lote (Pessoa 2)
+├── hash_table.h    ← Definições de structs, constantes e protótipos 
+├── hash_table.c    ← Implementação das funções da tabela hash     
+├── main.c          ← Aplicação: leitura em lote, busca, relatório 
+├── dados.txt       ← Arquivo com matrículas para inserção em lote 
 └── README.md
 ```
 
 ---
 
-## 🔧 Estrutura Base — Pessoa 1
+## 🔧 Estrutura Base 
 
 ### Estruturas de Dados
 
@@ -123,7 +123,7 @@ gcc -o trabalho1 main.c hash_table.c -Wall -Wextra
 
 ## 📹 Apresentação
 
-[Primeira Apresentação](https://youtu.be/xyz)
+[Primeira Apresentação](https://youtu.be/IkdTLcbAjoY)
 
 ---
 

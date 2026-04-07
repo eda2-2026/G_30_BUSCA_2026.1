@@ -2,19 +2,13 @@
  * @file main.c
  * @brief Aplicação principal — Tabela Hash de Matrículas.
  *
- * Responsabilidades da Pessoa 2:
- *   - Leitura em lote do arquivo dados.txt
- *   - Inserção na tabela via funções da Pessoa 1
- *   - Busca interativa via terminal
- *   - Contagem e exibição de colisões
- *   - Relatório final (total de entradas, colisões, fator de carga)
  *
  * Formato esperado de dados.txt (uma entrada por linha):
  *   <matricula> <nome_completo_com_espacos>
  *   Exemplo:
  *   211030620 Patrick Anderson Carvalho dos Santos
  *
- * @author Vinicius Castelo Ferreira (Pessoa 2)
+ * @author Vinicius Castelo Ferreira 
  * @date   2026
  */
 
