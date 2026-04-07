@@ -123,7 +123,7 @@ gcc -o trabalho1 main.c hash_table.c -Wall -Wextra
 
 ## 📹 Apresentação
 
-[Primeira Apresentação](https://youtu.be/IkdTLcbAjoY)
+[Primeira Apresentação](https://youtu.be/IkdTLcbAjoY?si=ikljVLBjFP7RQrrh)
 
 ---
 
